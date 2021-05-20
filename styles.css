@@ -1,0 +1,54 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+.head {
+    height: 349px;
+    background: linear-gradient(180deg, teal 0%, black 100%);
+    text-align: center;
+    padding-top: 20px;
+    color:white;
+    font-size: 5ch;
+    width: auto;
+    position: relative;
+    font-family: 'Franklin Gothic Medium', Arial, sans-serif;
+}
+
+
+.wave{
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 235px;
+    background: url(./img/wave.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.sectionone{
+    margin-top: 20px;
+    margin-left: 130px;
+    color:teal;
+    font-size: 3ch;
+    letter-spacing: 1ch;
+}
+
+.paraone{
+    margin: 15px 130px
+}
+
+.sectiontwo{
+    margin-top: 60px;
+    margin-left: 980px;
+    color:teal;
+    font-size: 3ch;
+    letter-spacing: 1ch;
+}
+
+.paratwo{
+    margin: 15px 130px;
+    text-align: right;
+}
+.headtext{
+    margin-top: 200px;
+}
