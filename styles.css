@@ -62,3 +62,21 @@ footer{
     padding-top: 60px;
     margin-top: 70px;
 }
+
+@media only screen and (min-width: 480px) {
+  footer {
+    background-color: lightblue;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+    footer {
+      background-color: lightslategray;
+    }
+  }
+
+  @media only screen and (min-width: 1024px) {
+    footer {
+      background-color: pink;
+    }
+  }
